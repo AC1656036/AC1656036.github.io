@@ -263,3 +263,9 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+
+
+<br/>
+## Navigation
+[Home](index.md)
