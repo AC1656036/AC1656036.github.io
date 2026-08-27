@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is AC.
+# Welcome to My Portfolio. Hello! My name is AC.
 ## Projects
 
 - Project 1: Description
