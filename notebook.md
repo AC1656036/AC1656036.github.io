@@ -1,3 +1,8 @@
+
+## Navigation
+[Home](index.md)
+
+
 ## Table of Contents
 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
@@ -265,7 +270,3 @@ Collapsible = Hide/Show detail
 Keep it simple, consistent, and clear.
 
 
-
-<br/>
-## Navigation
-[Home](index.md)
