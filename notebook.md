@@ -14,6 +14,8 @@
 
   - [Text Formatting](#text-formatting)
 
+  - [Code Examples](#code-examples)
+
 
   ## Vocab
 <details>
