@@ -19,17 +19,31 @@
 
   ## Vocab
 <details>
-  <summary>algorithm</summary>
+  <summary>Algorithm</summary>
     Step-by-step instructions. 
   
     Example: The steps to making cookies and a method we use for long math problems are both examples of algorithms.
 </details>
 
 <details>
-  <summary>sequencing</summary>
+  <summary>Sequencing</summary>
     The order things happen in.
 
     Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
+</details>
+
+<details>
+  <summary>Selection</summary>
+    The parts of an algorithm where decisions are made.
+
+    Example: If you already have your shoes on, then you are ready. If not, put them on.
+</details>
+
+<details>
+  <summary>Iteration</summary>
+    The parts of an algorithm which repeat.
+
+    Example: If you need to buy 10 apples, instead of buying them one at a time, you would buy multiple at once.
 </details>
 
  
