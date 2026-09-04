@@ -18,6 +18,50 @@
 
 
   ## Vocab
+
+<details>
+  <summary>Java</summary>
+    A programming language. Java and JavaScript are completely different languages. 
+  
+    
+</details>
+
+<details>
+  <summary>Procedural languages</summary>
+    Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence. 
+  
+    
+</details>
+
+<details>
+  <summary>Object oriented programming</summary>
+    Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes. 
+  
+    
+</details>
+
+
+<details>
+  <summary>Java class</summary>
+    In Java, a class is like a blueprint that defines the structure and behavior (data and actions) of objects you can create from it.
+  
+    
+</details>
+
+<details>
+  <summary>Java method</summary>
+    A method in Java is a block of code inside a class that performs a specific task when it's called. 
+  
+    
+</details>
+
+<details>
+  <summary>Console</summary>
+    The area of a computer that notes from a program can be printed to. Kind of like a notebook. 
+  
+    
+</details>
+  
 <details>
   <summary>Algorithm</summary>
     Step-by-step instructions. 
@@ -45,6 +89,93 @@
 
     Example: If you need to buy 10 apples, instead of buying them one at a time, you would buy multiple at once.
 </details>
+
+<details>
+  <summary>Internal Link</summary>
+    A link that takes a user to a different page in the same site.
+
+    Example: The following link will take users to the hobbies page within the site. <a href=“hobbies.html”>Take me to my Hobbies page</a>
+</details>
+
+<details>
+  <summary>External documentation</summary>
+    External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.
+
+    Example: // this is a java comment
+</details>
+
+<details>
+  <summary>Variables</summary>
+    A variable is like a box that holds the information you want.
+
+    Example: var = information; name = arthur; fave_food = pizza;
+</details>
+
+<details>
+  <summary>String</summary>
+    A string is a set of words or numbers that are surrounded by quotation marks. "Here is 1 string."
+
+    Example: "I am a string."
+</details>
+
+<details>
+  <summary>Int</summary>
+    Int is short for integer, which is a data type that means a number value.
+
+    Example: 12
+</details>
+
+<details>
+  <summary>Double</summary>
+    A double variable type is a decimal value.
+  
+    Example: 4.56
+</details>
+
+<details>
+  <summary>Char</summary>
+    A data type of just one character.
+  
+    Example: "A"
+</details>
+
+<details>
+  <summary>Boolean</summary>
+    A data type that represents the value of True or False. In Python it must be capitalized: True. In JavaScript and Java it's all lowercase: true.
+  
+    Example: "Rain = true, clearSky = false"
+</details>
+
+<details>
+  <summary>camelCase</summary>
+    CamelCase is a way of writing compound words or phrases where each word starts with a capital letter and there are no spaces
+  
+    Example: "myVariable" or "codeVarOne"
+</details>
+
+<details>
+  <summary>Concatenation</summary>
+    Adding strings together to create longer strings. "Hello my name" + "is" + "Dominique"
+  
+    Example: print("This is " + "an example of " + "concatenation.") #Output: This is an example of concatenation.
+</details>
+
+<details>
+  <summary>Type conversion</summary>
+    Type conversion is the process of changing a value from one data type to another, like turning an `int` into a `double` or a `String` into an `int`.
+  
+   
+</details>
+
+
+
+
+
+
+
+
+
+
 
  
 
